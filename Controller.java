@@ -1,5 +1,5 @@
 import java.util.*;
-
+//By: Brian Nwaobasi
 public class Controller {
 
     public static boolean team1;
@@ -51,7 +51,6 @@ public class Controller {
 
     /**
      * Runs my code :)
-     * @param args
      */
     public static void main(String[] args) {
 

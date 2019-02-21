@@ -4,6 +4,9 @@ public class FillInQuestions {
 
     static Scanner sc = new Scanner(System.in);
 
+    /**
+     * Question #1 ------------------------------------------------------------------------------------------------
+     */
     public static void question1(){
         System.out.print("What is the mascot of the university of Toledo?: ");
 
@@ -17,9 +20,11 @@ public class FillInQuestions {
         } else {
             System.out.println("Wrong Answer!");
         }
-
     }
 
+    /**
+     * Question #2 ------------------------------------------------------------------------------------------------
+     */
     public static void question2(){
         System.out.print("What year was George Washington elected president: ");
 
@@ -32,9 +37,11 @@ public class FillInQuestions {
         } else {
             System.out.println("Wrong Answer!");
         }
-
     }
 
+    /**
+     * Question #3 ------------------------------------------------------------------------------------------------
+     */
     public static void question3(){
         System.out.print("What is the answer to this? ((20 - 15) + (5 (5 - 3) - 1)) : ");
 
@@ -47,9 +54,11 @@ public class FillInQuestions {
         } else {
             System.out.println("Wrong Answer!");
         }
-
     }
 
+    /**
+     * Question #4 -----------------------------------------------------------------------------------------------
+     */
     public static void question4(){
         System.out.print("What is the first element of the periodic table?: ");
 
@@ -62,9 +71,11 @@ public class FillInQuestions {
         } else {
             System.out.println("Wrong Answer!");
         }
-
     }
 
+    /**
+     * Question #5 --------------------------------------------------------------------------------------------------
+     */
     public static void question5(){
         System.out.print("What is the capital city of Spain?: ");
 
@@ -77,25 +88,39 @@ public class FillInQuestions {
         } else {
             System.out.println("Wrong Answer!");
         }
-
     }
 
+    /**
+     * Question #6 -------------------------------------------------------------------------------------------
+     */
     public static void question6(){
 
     }
 
+    /**
+     * Question #7 -------------------------------------------------------------------------------------------
+     */
     public static void question7(){
 
     }
 
+    /**
+     * Question #8 -------------------------------------------------------------------------------------------
+     */
     public static void question8(){
 
     }
 
+    /**
+     * Question #9 -------------------------------------------------------------------------------------------
+     */
     public static void question9(){
 
     }
 
+    /**
+     * Question #10 -------------------------------------------------------------------------------------------
+     */
     public static void question10(){
 
     }
